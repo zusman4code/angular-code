@@ -23,4 +23,8 @@ export class AppComponent {
   b = 300 ;
   siteUrl= window.location.href ; 
   difination = " Angular interpolation is used display a component property in the respective view template with double curly braces syntax. ... Interpolation is used for one way data binding "
+
+  khaled = " Khaled Testing Interpolation "
 }
+
+
